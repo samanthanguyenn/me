@@ -14,7 +14,7 @@ picture: assets/images/me.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://previews.pdf-archive.com/2017/02/13/officialresume/preview-officialresume-1.jpg
+resume-url: https:https://previews.pdf-archive.com/2017/02/13/officialresume-1/preview-officialresume-1-1.jpg
 
 url: https://samanthanguyenn.github.io/
 # your url: http://USERNAME.github.io
@@ -81,7 +81,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+contact: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
