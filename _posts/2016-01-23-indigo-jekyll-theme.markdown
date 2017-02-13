@@ -1,17 +1,17 @@
 ---
-title: "Indigo, minimalist jekyll theme"
+title: "Ants Vs. Bees"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: /indigo/assets/images/jekyll-logo-light-solid.png
+date: 2016-06-26 22:10
+tag: python
+image: /indigo/assets/images/antsvsbees.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ants:" alt=":ants:" src="https://assets.github.com/images/antsvsbees.png" height="20" width="20" align="absmiddle">'
 category: project
 author: johndoe
-externalLink: false
+externalLink: true
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)

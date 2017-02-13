@@ -14,7 +14,7 @@ picture: assets/images/me.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://previews.pdf-archive.com/2017/02/13/officialresume/preview-officialresume-1.jpg
 
 url: https://samanthanguyenn.github.io/
 # your url: http://USERNAME.github.io
@@ -77,7 +77,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

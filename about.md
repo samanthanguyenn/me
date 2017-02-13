@@ -4,21 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I’m Sam. I’m currently a second year at UC Berkeley pursuing a BA in Computer Science.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I come from a long line of sassy Vietnamese chefs; I am neither sassy nor a good cook. Once, I tried to make pasta and forgot to add water - the noodles burned. Nonetheless, these far from tasty noodles work in tandem with my life and have become the seeds of my world. These burnt noodles are the disparaging foundation I habitually build upon, originating from my aspiring chef de cuisine days when nine year old me fathomed that there's always room to grow. </p>
 
-<h2>Skills</h2>
+<p>I have explored and learned, and figured out that I thrive the most when I’m trying new things. I love going to places I’ve never been before, finding little hidden food joints, and reading new books. DIY projects are one of my favorite things to do on the side, whenever I can find the time to do so. When taking some TLC time, I indulge in my favorite TV shows- Suits, Narcos, Sherlock, anything with an intense storyline, drama and of course some humor, likely has my attention. </p>
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,4 +36,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
