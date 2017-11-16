@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I’m Sam. I’m currently a second year at UC Berkeley pursuing a BA in Computer Science.
+<p>Hi, I’m Sam. I’m currently a third year at UC Berkeley pursuing a BA in Computer Science and Cognitive Science.
 </p>
 
 <p>I come from a long line of sassy Vietnamese chefs; I am neither sassy nor a good cook. Once, I tried to make pasta and forgot to add water - the noodles burned. Nonetheless, these far from tasty noodles work in tandem with my life and have become the seeds of my world. These burnt noodles are the disparaging foundation I habitually build upon, originating from my aspiring chef de cuisine days when nine year old me fathomed that there's always room to grow. </p>
