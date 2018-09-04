@@ -11,8 +11,6 @@ layout: page
 
 <p>Outside of work and school, I enjoy hiking, cooking, reading, sewing, DIY projects, and most importantly, just trying new things. When taking some TLC time, I indulge in my favorite TV shows- Suits, Narcos, Sherlock, anything with an intense storyline, drama and of course some humor, likely has my attention. </p>
 
-<p>I believe that there is so much to be learned in this world, and everybody deserves a chance to see all that there is out there. I participate and am an intern for Let’s Rise mentorship, an organization that mentors underrepresented youth from the Richmond community. This experience continuously allows me to connect with students who are often doubtful of their abilities to pursue higher education, and guide them toward a positive track. I find teaching to be a heartwarming experience, and this includes my time at Girls Who Code. These young girls with such a passion to learn and churn out projects from code, is an inspiration to me, as opposed to when I see the vast gender disparities in my very own UC Berkeley classes. Together, the community can grow and thrive in our commitment to learning. </p>
-
 <!-- <h2>Skills</h2>
 
 <ul class="skill-list">
